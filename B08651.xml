@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Earl of Macclesfield, against Mr. John Starkey, who while be served as a jury-man, published a malicious libel against the said Earl and others, contrary to law, and all pretence of colours from the office of jury-man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08651</idno>
+            <idno type="STC">Wing C1066A</idno>
+            <idno type="STC">ESTC R173444</idno>
+            <idno type="EEBO-CITATION">64551041</idno>
+            <idno type="OCLC">ocm 64551041</idno>
+            <idno type="VID">184427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184427)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Earl of Macclesfield, against Mr. John Starkey, who while be served as a jury-man, published a malicious libel against the said Earl and others, contrary to law, and all pretence of colours from the office of jury-man.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Starkey, John --  Trials, litigation, etc.</term>
+               <term>Macclesfield, Charles Gerard, --  Earl of, 1618?-1694 --  Trials, litigation, etc.</term>
+               <term>Trials (Libel) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184427:1"/>
+            <head>The <hi>CASE</hi> of the EARL of <hi>MACCLES<g ref="char:EOLhyphen"/>FIELD,</hi> againſt Mr. <hi>John Starkey,</hi> who while he ſerved as a Jury-Man, publiſhed a malicious Libel againſt the ſaid Earl and others, contrary to Law, and all Pretence of Colour from the Office of <hi>Jury-Man.</hi>
+            </head>
+            <head type="sub">Mr. <hi>STARKEY</hi> and others of the Grand Jury at <hi>Cheſter, Mich. 1683,</hi> ſubſcribed and publiſhed a form of a Preſent<g ref="char:EOLhyphen"/>ment in Paper, brought them ready drawn by five of their Fellows, in the Words following.</head>
+            <p>WE the Grand Jury ſworn to enquire for the Body of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cheſter</hi> at the Aſſizes held in the Common Hall of Pleas in the Caſtle of <hi>Cheſter,</hi> upon <hi>Monday</hi> the <hi>17th</hi> Day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> in the <hi>35th</hi> Year of his now Majeſties Reign, and in the Year of our Lord, 1683, having heard his Majeſties Declaration to all his loving Subjects, concerning the treaſonable Conſpiracy againſt his ſacred Per<g ref="char:EOLhyphen"/>ſon and Government, lately diſcovered, openly read to us in Seſſions by order of the Court, as well as in our reſpective Pariſh-Churches by Royal Command, and ſeriouſly conſidering the Extenſiveneſs of the ſaid Conſpiracy, and dreadful Conſequences thereof, had it taken effect, ſince Notions of Sedition and Rebelli<g ref="char:EOLhyphen"/>on have been cultivated to ſuch an amazing Height, that ſome have not only dared to draw them into Practice in their Lives, but to propagate them with their lateſt Breath, by deviliſh Inſinuations of their Conſiſtence with Religion and Law. We conceive it high time to manifeſt our Separation from ſuch Perſons and Principles, their Favourers and Abettors with the Deteſtation of that dreadful Climax, the Bill of Excluſion, treaſonous Aſſociation, Ignoramus Juries, and ſeducing Perambulations, by which the Accomplices advanced to<g ref="char:EOLhyphen"/>wards their intended Aſſaſſination and Maſſacre, which barbarous Deſign it cannot be imagined that fourty, or the Councel of any ſix durſt undertake without confident Reliance on Confederate Auxiliaries; and not knowing the Latitude of ſuch dire Combinations, but heedful to our preſent Charge and Duty, with the indiſpenſable Obligations the Oaths of Allegiance and Supre<g ref="char:EOLhyphen"/>macy lay upon all; We hold our ſelves bound in this diſtempered Juncture of Affairs, to preſent that we have ſtrong Apprehenſions of Danger from a diſſa<g ref="char:EOLhyphen"/>tisfied Party in this County, who not only ſhewed their Defection openly by an Addreſs made to <hi>Henry Booth</hi> Eſq; and Sir <hi>Robert Cotton</hi> Knight and Baro<g ref="char:EOLhyphen"/>net, at the laſt Election of Knights of the Shire, tending to alter the Succeſſion of the Crown, with other dangerous and ſeditious Purports, giving Aſſurance of ſtanding by them in that Deſign without reſpecting their Oath of Allegi<g ref="char:EOLhyphen"/>ance to the King and his Heirs, but alſo by their ſeveral Meetings and Cabals ſince, which adminiſter greater Suſpicion from the ſtore of Arms many of them were provided with, and for that the ſame Perſons unanimouſly aſſembled with
+<pb n="2" facs="tcp:184427:2"/>Schiſmaticks, and diſaffected in the publick Reception of <hi>James</hi> Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> who has appeared a prime Confederate in the late treaſonable Conſpira<g ref="char:EOLhyphen"/>cy, the Concourſe of armed Perſons then attending him, eſpecially in and near ſeveral populous Towns in this County, where they invited and inſtigated the Rabble in a broad Mixture of various Sectaries with ſuperfluous Joy and popular Noiſe tumulted on that occaſion, has had an evil Influence on this yet unſetled County, and brought a Terror upon his Majeſties good and peaceable Subjects. For Remedy whereof, with Relation to the publick Peace, and, to prevent as far as in us lies, the ſpreading of ſuch Contagion, as alſo <hi>to waſh our Hands from all Miſpriſion by concealing Proceedings</hi> that may encourage greater Evils in other parts of his Majeſties Dominions, We conceive it expedient that the principal Perſons who promoted the aforeſaid ſeditious Addreſs, and alſo thoſe who were notorious in Comforting, Aiding and Abetting in the routous Reception and Entertainment of the ſaid Duke of <hi>Monmouth,</hi> and his Aſſociates in this County, together with the Frequenters of Conventicles, and thoſe that harbour and countenance any Nonconformiſt Miniſter or Preacher, ſhould <hi>be obliged to give Security of the Peace,</hi> and particularly <hi>Charles</hi> Earl of <hi>Macclesfield, Richard</hi> Lord <hi>Colcheſter, Charles</hi> Lord <hi>Brandon, Henry Booth</hi> Eſq; Sir <hi>Robert Cotton</hi> Knight and Baronet, Sir <hi>Willoughby Aſton</hi> Baronet, Sir <hi>Thomas Manwaring</hi> Baro<g ref="char:EOLhyphen"/>net, Sir <hi>Thomas Bellet</hi> Baronet, Sir <hi>John Crew</hi> Knight, <hi>Nathaniel Booth</hi> Eſq; Colonel <hi>Thomas Leigh junior, John Manwairing</hi> of <hi>Baddily</hi> Eſq; <hi>Peter Leigh</hi> of <hi>Booths</hi> Eſq; Colonel <hi>Roger Whitley</hi> of <hi>Peel,</hi> and Mr. <hi>Thomas Whitley</hi> his Son, <hi>Ro<g ref="char:EOLhyphen"/>ger Manwaring</hi> of <hi>Kermincham</hi> Eſq; <hi>Tilſton Breten</hi> of <hi>Stapleford</hi> Eſq; Sir <hi>Robert Duckenfield</hi> Baronet, <hi>Thomas Lea of Dernehal</hi> Eſq; and Mr. <hi>Robert Hyde</hi> of <hi>Cot<g ref="char:EOLhyphen"/>tenhall, Edward Glegge</hi> of <hi>Grange</hi> Eſq; <hi>Richard Leige</hi> of <hi>High-Leige</hi> Eſq; Mr. <hi>Roger Whitley,</hi> Mr. <hi>Robert Venables</hi> of <hi>Winchcombe, William Minſhull of Nampt<g ref="char:EOLhyphen"/>wich</hi> Eſq; <hi>John Hurleſtone</hi> of <hi>Newton</hi> Eſq; and <hi>Charles</hi> his Son, and <hi>William Whitmore</hi> of <hi>Thurſtaſton</hi> Eſq; We alſo preſent that all Perſons not frequent<g ref="char:EOLhyphen"/>ing the Church according to Law, are Recuſants, it being impoſſible to know the Hearts of Men, for what cauſe they refuſe to come to Church, and that all Connivance and Indulgence in that caſe is the ready Road to Rebellion, Pope<g ref="char:EOLhyphen"/>ry and Arbitrary Power. And further we deſire humbly to preſent to his moſt ſacred Majeſty our repeated Congratulation of Joy for his and his Royal Brother's happy Deliverance from the late treaſonable Conſpiracy, with our Aſſurances, that we will with our Lives and Fortunes ſtand in Defence of his ſacred Perſon and Government, his Heirs and lawful Succeſſors, to all which we ſubſcribe our Names.</p>
+            <p>IN this Preſentment twenty eight Perſons not the leaſt conſiderable in their Country, as appears by their Names, are by this State-Jury mark'd out as Conſpirators againſt the Life of the then King, and as if they had ſhewed an <hi>open Defection</hi> from their Allegiance; nay the <hi>Jury-Men turn Evidences,</hi> and ſay they preſent theſe to <hi>waſh their Hands from all Miſpriſion.</hi>
+            </p>
+            <p>The Earl of <hi>Macclesfield</hi> finding himſelf ſcandaliz'd to the higheſt degree, brought his Action for this againſt the Defendant in the Exchequer: The Plea was, That <hi>he did nothing but as a Grand-Jury-Man, in purſuance of the Articles given in charge, and according to the Evidence againſt the Earl.</hi>
+            </p>
+            <p>The contrary to this appears upon the Preſentment it ſelf, there being nothing in it ſo directly laid againſt the Earl, that he could take Iſſue upon it, and there<g ref="char:EOLhyphen"/>fore he, as he had reaſon, demurr'd to the Plea; yet Judgment was given for the Defendant through the Sollicitations of <hi>Graham</hi> and <hi>Burton,</hi> who under<g ref="char:EOLhyphen"/>took the Defence as the King's Cauſe, for which conſiderable Sums of Mony iſ<g ref="char:EOLhyphen"/>ſued out of the Exchequer, as appeared by their Books produced before the late Houſe of Commons.</p>
+            <p>The Hardſhip of which Judgment, and the Conſequences of it in relation to all the Peers of <hi>England,</hi> are now ſubmitted to their Conſiderations.</p>
+            <pb n="3" facs="tcp:184427:2" rendition="simple:additions"/>
+            <p>Mr. <hi>Starkey</hi> in his printed Caſe ſays, <hi>Whether the Fact were true or falſe, will not alter the Caſe, being according to the Evidence given before them.</hi> But if it were <hi>falſe,</hi> and without <hi>Evidence given,</hi> no doubt it will be a great Inducement to the <hi>Lords</hi> to relieve a Member of their Houſe, if they can do it by Law, leſt them<g ref="char:EOLhyphen"/>ſelves ſhould ſuffer in the like Caſe.</p>
+            <p>It is in Proof that no manner of Evidence was given before the Jury againſt more than one, that Evidence very inſignificant, and yet even that was after<g ref="char:EOLhyphen"/>wards manifeſtly known to be falſe.</p>
+            <p>Beſides there is full proof that this Preſentment proceeded from a Conſpira<g ref="char:EOLhyphen"/>cy between <hi>Jefferies,</hi> then Chief Juſtice of <hi>Cheſter,</hi> who brought it from <hi>London</hi> ready drawn, and five of the Jury, who manag'd the reſt, threatning ſome, and prevailing upon others with the Name of <hi>Loyalty,</hi> for which end they brought a Meſſage from <hi>Jefferies,</hi> that it was <hi>expected for the King's Service.</hi>
+            </p>
+            <p>Nor were they ſatisfied in preſenting this Libel as their Act, but publiſhed it to ſeveral others not of the Jury, and procured their Hands to it, but being ſo far ſenſible of their Error, had it writ over again, leaving out the other Hands. Theſe things make it demonſtrable that the pretence of being Jury-men, can<g ref="char:EOLhyphen"/>not give any colour to what they did.</p>
+            <p>And the Fact ariſing within the County, upon which they grounded their <hi>Preſentment,</hi> makes the Malice of it undeniable. As to the Suggeſtion of great quantities of Arms, it was ſo far from true, that not above two hundred were ſeized upon the moſt diligent ſearch.</p>
+            <p>The real grounds were no more, than that the Duke of <hi>Monmouth</hi> had great Reſpect paid him, upon his coming into the Country in a peaceable manner, being accompanied by moſt Perſons of any Conſideration: and when the pre<g ref="char:EOLhyphen"/>ſent Lord <hi>Delamere</hi> was choſen for the Shire, a Paper without any Hands to it, was delivered him, the Original or true Copy of which they never ſaw, where<g ref="char:EOLhyphen"/>in he was deſired, as Repreſentative of the County in Parliament, to vote for excluding a <hi>Papiſt</hi> from ſucceeding to the Crown; which Paper is fully juſtified by the <hi>Bill of Rights,</hi> declaring it <hi>inconſiſtent with the Safety and Welfare of this Proteſtant Kingdom, to be governed by a Popiſh Prince.</hi>
+            </p>
+            <p>How innocent ſoever theſe Particulars were, ſo blind was their Malice againſt the ſaid Earl, that they inſerted his Name, though he had no Share in either of them, and only entertained the Duke of <hi>Monmouth</hi> at his Houſe: But indeed their Malice to him was not ſingular; for ſome others in the Preſentment were not in the Country when thoſe things hapned, which they would improve into Treaſon.</p>
+            <p>It appears upon the face of the Preſentment, that it was nothing more than an Effect of the Deſign then carried on by Papiſts, and others in conjunction with them, to make diſtinctions of Parties among Proteſtants, and to expoſe and oppreſs them who appeared moſt forward in aſſerting the Religious and Civil Rights of the Nation, and whoſe Intereſt in their <hi>Countries</hi> made them formidable to the Conſpirators.</p>
+            <p>This their Preſentment was without Precedent, but from one of the like birth about that ſince in <hi>Northampton-ſhire,</hi> has no Foundation in Law, and is manifeſtly contrary to the Duty of a Grand-Jury-man. For,</p>
+            <p n="1">1. Here are many falſe and ſcandalous Matters maliciouſly inſinuated, as Cauſes of requiring Sureties of the Peace from the Perſons preſented; and yet there is no direct Charge, which ought to be contained in every Preſentment; and the want of it makes this a plain Libel, deſigning only to defame, and to encourage falſe Witneſſes againſt ſome of the Perſons preſented, who were then Priſoners in the Tower.</p>
+            <p n="2">2. All criminal Matters found by a Jury, ought to be by <hi>Indictment,</hi> upon Record in ſome Court, that the Party accuſed may have means of Acquittal.</p>
+            <p n="3">3. Sureties of the Peace ought not to be required of any, eſpecially a <hi>Peer</hi> of the Realm, but where an actual breach of the Peace, or ſome Crime of an higher Nature, is poſitively ſworn.</p>
+            <pb n="4" facs="tcp:184427:3"/>
+            <p n="4">4. Though <hi>Jury-men</hi> may determine Matter of Law, as it is coupled with Fact, in Evidence before them, they ought not to pronounce Sentence for Pu<g ref="char:EOLhyphen"/>niſhment of any Fact, as here they do in requiring Sureties of the Peace, though no Fact is directly laid againſt the ſaid Earl and others.</p>
+            <p>If the Earl of <hi>Macclesfield</hi> ſhould not be reliev'd in this Caſe, it would be an Encouragement for <hi>Grand-Juries</hi> to libel any Peer in disfavour with his Prince, as often as they ſhall be incited to it by Deſigning-Men. And what is now the Caſe only of one <hi>Earl,</hi> may be the Caſe of any or all the Proteſtant Peers of <hi>England,</hi> if they ſhould have the unhappineſs to live in ſuch Times as we are but lately delivered from.</p>
+            <p>Nor could the making an Example of a Grand-Jury-Man, who has ſo evi<g ref="char:EOLhyphen"/>dently gone beyond his Office, to ſerve a Turn againſt a <hi>Peer,</hi> in the leaſt diſ<g ref="char:EOLhyphen"/>courage others from finding <hi>Indictments</hi> againſt Peers upon poſitive Proof, or ſuch as ſeems poſitive to them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
